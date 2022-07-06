@@ -53,7 +53,7 @@ body {
 .title-2 {
     font-size: 40px;
     font-weight: bold;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
     margin-left: 500px;
 
 
@@ -107,4 +107,21 @@ body {
     border-bottom: 2px solid rgba(0, 0, 0, 0.295);
     width: 500px;
     margin-left: 30%;
+}
+
+.card {
+    display: flex;
+    width: 1400px;
+    height: 500px;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+
+.donate-item {
+    width: 320px;
+    height: 160px;
+    border: 5px solid rgb(248, 242, 242);
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0.055);
+
 }
