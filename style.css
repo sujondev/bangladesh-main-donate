@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    margin: 0%;
+    padding: o;
+}
+
+h1 {
+    margin-bottom: 15px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+
+.bg-images {
+    height: 900px;
+    width: 1400px;
+    background-repeat: no-repeat;
+    background-image: url(images/donation12.png);
+}
+
+.text-edit {
+    text-align: center;
+    padding-top: 400PX;
+    color: white;
+    font-size: 20px;
+}
+
+
+.button {
+    margin: 50px 620px;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(233, 59, 28);
+    border: solid 7px rgb(231, 58, 27);
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
