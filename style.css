@@ -7,7 +7,7 @@ body {
     padding: o;
 }
 
-h1 {
+.tittle {
     margin-bottom: 15px;
     font-size: 50px;
     font-weight: bold;
@@ -42,4 +42,69 @@ h1 {
     color: white;
     font-weight: bold;
     font-size: 15px;
+}
+
+.donating {
+    height: 500px;
+    width: 1400px;
+    margin-top: 70px;
+}
+
+.title-2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    margin-left: 500px;
+
+
+}
+
+.text-edit2 {
+    text-align: center;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.486);
+
+}
+
+.money-amount {
+    display: flex;
+    list-style: none;
+    font-size: 30px;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-top: 20px;
+    padding: 50px;
+
+}
+
+.money-list {
+    border: 5px solid white;
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.055);
+
+}
+
+.basic-doante {
+    border: 2px solid red;
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+    padding: 50px;
+    margin: 20px;
+    background-color: rgba(228, 28, 28, 0.151);
+
+
+}
+
+.big-donate {
+    text-align: center;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.486);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.295);
+    width: 500px;
+    margin-left: 30%;
 }
