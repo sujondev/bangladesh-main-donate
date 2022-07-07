@@ -130,7 +130,7 @@ body {
     font-size: 45px;
     font-weight: bold;
     margin-bottom: 25px;
-    margin-left: 300px
+    margin-left: 20px
 }
 
 .text-edit3 {
@@ -153,9 +153,10 @@ body {
 
 .defend-donate-item {
     text-align: left;
-    width: 45%;
+    width: 40%;
     height: 50%;
     margin-right: 50px;
+    margin-top: 30px;
     padding: 10px;
 }
 
@@ -178,4 +179,21 @@ body {
     font-weight: bold;
     font-size: 15px;
     margin-left: 50px;
+    margin-top: 20px;
+}
+
+.seceond-donate {
+    margin-top: 150px;
+}
+
+.title-4 {
+    margin: 30px;
+}
+
+.text-edit4 {
+    margin: 30px;
+}
+
+.button-3 {
+    margin-left: 700px;
 }
